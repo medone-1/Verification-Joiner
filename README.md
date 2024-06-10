@@ -11,4 +11,4 @@ The Bot Logs Info The Rom After The User, Says Something You Assigned It , And L
 
 ## None
 
-- If There Is Any Problem Contact Me In My Discord: med1one-1
+- If There Is Any Problem Contact Me In My Discord: [ecliptic](https://discord.gg/ecliptic)
