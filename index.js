@@ -178,3 +178,15 @@ client.login(process.env.token);
 // Handles errors and avoids crashes, better not to remove them.
 process.on("unhandledRejection", console.error);
 process.on("uncaughtException", console.error);
+
+
+
+/**
+ * Project: Verification-Joiner
+ * Author: @medone-1
+ * this code is under the MIT license.
+ * For more information, contact us at
+ * https://discord.gg/ecliptic
+ */
+
+
